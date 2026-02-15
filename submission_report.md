@@ -1,9 +1,11 @@
-Untitled.md
 # Machine Learning Assignment 2 Submission Report
+
+**Student Name:** `R Angatha Ram Kisan`  
+**BITS ID:** `2025aa05033`
 
 ## 1) GitHub Repository Link
 
-Repository URL: `<PASTE_YOUR_GITHUB_REPO_LINK_HERE>`
+Repository URL: `https://github.com/2025aa05033/ML_Assignment_2`
 
 Repository includes:
 - Complete source code
@@ -12,24 +14,17 @@ Repository includes:
 
 ## 2) Live Streamlit App Link
 
-App URL: `<PASTE_YOUR_STREAMLIT_APP_LINK_HERE>`
+App URL: `https://2025aa05033-ml-assignment-2.streamlit.app/`
 
 ## 3) Screenshot (BITS Virtual Lab Execution Proof)
-
-Add your screenshot below (replace path/file name):
 
 ![BITS Virtual Lab Execution Code](./screenshots/code.png)
 
 ![BITS Virtual Lab Local Streamlit](./screenshots/local_streamlit.png)
 
-
 ![BITS Virtual Lab Hosted Streamlit](./screenshots/hosted_streamlit.png)
 
-If your screenshot is in a different location, update the path accordingly.
-
----
-
-## 4) README Content (As Required in Assignment)
+## 4) README Content
 
 ### a) Problem Statement
 Build an end-to-end machine learning classification project on one public dataset and implement 6 required models on the same train/test split:
@@ -76,11 +71,3 @@ Then create an interactive Streamlit app with CSV upload, model selection, metri
 | XGBoost (Ensemble) | Best overall model across key ranking metrics, with strong balance after size optimization. |
 
 ---
-
-## Optional Appendix (Deployment Notes)
-
-- Main app file: `app.py`
-- Model training script: `model/train_models.py`
-- Saved models: `model/saved_models/`
-- Metrics/report artifacts: `artifacts/`
-- Test upload sample: `data/sample_upload_test_data.csv`
