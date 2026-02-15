@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*/__pycache__/
+*.pyc
+.DS_Store
+
+# Local editor/runtime artifacts
+.streamlit/secrets.toml
