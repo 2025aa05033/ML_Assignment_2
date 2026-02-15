@@ -1,3 +1,4 @@
+Untitled (1).md
 # Machine Learning Assignment 2 - Classification and Streamlit Deployment
 
 ## a) Problem Statement
@@ -101,6 +102,17 @@ project-folder/
 - Display of required evaluation metrics (Accuracy, AUC, Precision, Recall, F1, MCC)
 - Confusion matrix and classification report display
 - Fallback evaluation using saved holdout set when CSV is not uploaded
+
+## Screenshots
+
+### BITS Virtual Lab Execution - Code
+![BITS Virtual Lab Execution Code](./screenshots/code.png)
+
+### Local Streamlit App
+![BITS Virtual Lab Local Streamlit](./screenshots/local_streamlit.png)
+
+### Hosted Streamlit App
+![BITS Virtual Lab Hosted Streamlit](./screenshots/hosted_streamlit.png)
 
 ## Deployment Steps (Streamlit Community Cloud)
 1. Push this repository to GitHub.
